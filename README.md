@@ -5,7 +5,7 @@
 [![](https://github-profile-trophy.vercel.app/?username=raptech-jp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flask,tailwind,bootstrap,wordpress,c,cpp,cs,java,py,md,nginx,docker,raspberrypi,linux,gcp,github,vim,emacs,vscode,visualstudio,discord)](https://skillicons.dev)
 
-## Achievement
+## Achievements
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
 - [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking 賞
 
