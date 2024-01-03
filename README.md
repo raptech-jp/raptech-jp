@@ -2,7 +2,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raptech-jp&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api?username=raptech-jp&count_private=true&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raptech-jp&layout=compact&theme=dracula)
-[![](https://github-profile-trophy.vercel.app/?username=raptech-jp)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://github-profile-trophy.vercel.app/?username=raptech-jp&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,flask,tailwind,bootstrap,wordpress,c,cpp,cs,java,py,md,nginx,docker,raspberrypi,linux,gcp,github,vim,emacs,vscode,visualstudio,discord)](https://skillicons.dev)
 
 Achievements : 
