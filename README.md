@@ -8,7 +8,7 @@
 ### Languages
 ![](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py)
 ### Web Development
-![](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,flask,fastapi,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,vue,flask,fastapi,tailwind,bootstrap)
 ### Platforms/Frameworks
 ![](https://skillicons.dev/icons?i=wordpress,docker,raspberrypi,linux,gcp,vercel)
 ### Database
