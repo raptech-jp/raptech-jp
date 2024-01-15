@@ -3,17 +3,20 @@
 ![](https://github-readme-stats.vercel.app/api?username=raptech-jp&count_private=true&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raptech-jp&layout=compact&theme=dracula)
 ![](https://github-profile-trophy.vercel.app/?username=raptech-jp&theme=onedark)
+
 ## Skills
 ### Languages
-![](https://skillicons.dev/icons?i=js,ts,c,cpp,cs,java,py)
+![](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py)
 ### Web Development
-![](https://skillicons.dev/icons?i=html,css,react,nextjs,flask,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=html,css,react,nextjs,vue,flask,fastapi,tailwind,bootstrap)
 ### Platforms/Frameworks
-![](https://skillicons.dev/icons?i=wordpress,docker,raspberrypi,linux,gcp)
+![](https://skillicons.dev/icons?i=wordpress,docker,raspberrypi,linux,gcp,vercel)
+### Database
+![](https://skillicons.dev/icons?i=postgres,mysql)
 ### Development Tools
-![](https://skillicons.dev/icons?i=nginx,github,vim,emacs,vscode,visualstudio)
+![](https://skillicons.dev/icons?i=git,github,nginx,vim,emacs,vscode,visualstudio)
 ### Others
-![](https://skillicons.dev/icons?i=md,discord)
+![](https://skillicons.dev/icons?i=gmail,md,discord,bots)
 
 ## Achievements
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
