@@ -1,5 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raptech-jp&theme=dracula)
-![](https://github-readme-stats.vercel.app/api?username=raptech-jp&count_private=true&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raptech-jp&layout=compact&theme=dracula)
 ![](https://github-profile-trophy.vercel.app/?username=raptech-jp&theme=onedark)
 
