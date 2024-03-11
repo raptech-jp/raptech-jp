@@ -17,7 +17,8 @@
 
 ## Achievements
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
-- [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking 賞
+- [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking
+- [第1回 高専起業家サミット](https://startup.gekkan-kosen.com/) - 三菱UFJ銀行賞
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
 
 ## Favorite Songs
