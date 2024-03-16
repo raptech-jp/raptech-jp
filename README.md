@@ -16,10 +16,12 @@
 ![](https://skillicons.dev/icons?i=gmail,md,discord,bots)
 
 ## Achievements
-- [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
-- [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking賞
+### 2024
 - [第1回 高専起業家サミット](https://startup.gekkan-kosen.com/) - 三菱UFJ銀行賞
+### 2023
+- [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
+- [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking賞
 
 ## Favorite Songs
 - [Endless Error Loop](https://www.youtube.com/watch?v=0uLwC9uuT6k)
