@@ -23,6 +23,7 @@
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
 
-## Favorite Songs
-- [Endless Error Loop](https://www.youtube.com/watch?v=0uLwC9uuT6k)
-- [きゅうくらりん](https://www.youtube.com/watch?v=2b1IexhKPz4)
+## Articles
+### 2023
+- [Hack U KOSEN 2023でHappy Hacking賞を受賞しました](https://www.sendai-nct.ac.jp/s20240125-4/)
+- [「AI-Ready都市」を目指す仙台・東北の学生たちの取り組みを紹介──仙台X-TECHイノベーションアワード2023](https://techplay.jp/column/1699)
