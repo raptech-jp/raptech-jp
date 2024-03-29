@@ -26,4 +26,6 @@
 ## Articles
 ### 2023
 - [Hack U KOSEN 2023でHappy Hacking賞を受賞しました](https://www.sendai-nct.ac.jp/s20240125-4/)
+- [本校広瀬キャンパス学生がDCON2023本選に出場しました](https://www.sendai-nct.ac.jp/s20230510/)
+- [DCON2023本選直前！突撃インタビュー！！ – RDS LAB (仙台)](https://dcon.ai/2023/products/interview-sendai/)
 - [「AI-Ready都市」を目指す仙台・東北の学生たちの取り組みを紹介──仙台X-TECHイノベーションアワード2023](https://techplay.jp/column/1699)
