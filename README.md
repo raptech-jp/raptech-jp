@@ -24,6 +24,8 @@
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
 
 ## Articles
+### 2024
+- [第1回 高専起業家サミット 開催レポート](https://startup.gekkan-kosen.com/report/1st_2023/)
 ### 2023
 - [Hack U KOSEN 2023でHappy Hacking賞を受賞しました](https://www.sendai-nct.ac.jp/s20240125-4/)
 - [本校広瀬キャンパス学生がDCON2023本選に出場しました](https://www.sendai-nct.ac.jp/s20230510/)
