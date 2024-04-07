@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raptech-jp&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raptech-jp&langs_count=10&layout=compact&theme=dracula)
 ![](https://github-profile-trophy.vercel.app/?username=raptech-jp&theme=onedark)
 
 ## Skills
