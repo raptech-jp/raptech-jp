@@ -25,6 +25,7 @@
 
 ## Articles
 ### 2024
+- [第一回高専起業家サミットでプラチナ協賛企業賞を受賞](https://www.sendai-nct.ac.jp/s20240409-2/)
 - [第1回 高専起業家サミット 開催レポート](https://startup.gekkan-kosen.com/report/1st_2023/)
 ### 2023
 - [Hack U KOSEN 2023でHappy Hacking賞を受賞しました](https://www.sendai-nct.ac.jp/s20240125-4/)
