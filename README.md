@@ -18,6 +18,7 @@
 ## Achievements
 ### 2024
 - [第1回 高専起業家サミット](https://startup.gekkan-kosen.com/) - 三菱UFJ銀行賞
+- [全国型CTFコンテスト](https://www.soumu.go.jp/main_content/000972534.pdf) - オンサイト9位（仙台会場1位）
 ### 2023
 - [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking賞
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
