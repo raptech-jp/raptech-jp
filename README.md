@@ -16,6 +16,8 @@
 ![](https://skillicons.dev/icons?i=gmail,md,discord,bots)
 
 ## Achievements
+### 2025
+- [第2回 高専起業家サミット](https://startup.gekkan-kosen.com/) - イントラプレナー部門 最優秀賞
 ### 2024
 - [SPARK!TOHOKU2024 Startup Pitch](https://www.sparktohoku.net/) - 仙台市長賞, 生活協同組合連合会コープ東北サンネット賞（学生部門）
 - [全国型CTFコンテスト](https://www.soumu.go.jp/main_content/000972534.pdf) - 仙台会場1位（オンサイト9位, 全国32位）
