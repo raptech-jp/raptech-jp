@@ -28,9 +28,11 @@
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
 
 ## Articles
+### 2025
+- [第2回高専起業家サミット・受賞チーム決定！](https://startup.gekkan-kosen.com/news/746/)
+- [全国型CTFにおいて仙台会場第一位になりました](https://www.sendai-nct.ac.jp/20250206-2/)
 ### 2024
-- [「全国型CTFコンテスト」を開催
-](https://www.soumu.go.jp/soutsu/tohoku/kohoshi/20241130ctfcontest.html)
+- [「全国型CTFコンテスト」を開催](https://www.soumu.go.jp/soutsu/tohoku/kohoshi/20241130ctfcontest.html)
 - [第一回高専起業家サミットでプラチナ協賛企業賞を受賞](https://www.sendai-nct.ac.jp/s20240409-2/)
 - [第1回 高専起業家サミット 開催レポート](https://startup.gekkan-kosen.com/report/1st_2023/)
 
