@@ -29,6 +29,8 @@
 
 ## Articles
 ### 2025
+- [第2回高専起業家サミットで最優秀賞受賞！](https://www.sendai-nct.ac.jp/20250310-3/)
+- [DCON2025　本選出場が決定しました](https://www.sendai-nct.ac.jp/20250310-2/)
 - [第2回高専起業家サミット・受賞チーム決定！](https://startup.gekkan-kosen.com/news/746/)
 - [全国型CTFにおいて仙台会場第一位になりました](https://www.sendai-nct.ac.jp/20250206-2/)
 ### 2024
