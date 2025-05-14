@@ -17,6 +17,7 @@
 
 ## Achievements
 ### 2025
+- [第6回全国高等専門学校 ディープラーニングコンテスト2025](https://dcon.ai/2023/) - 本選出場 4位（企業評価額7000万円）, トヨタ自動車賞, 丸井グループ賞, ライオン賞
 - [第2回 高専起業家サミット](https://startup.gekkan-kosen.com/) - イントラプレナー部門 最優秀賞
 ### 2024
 - [SPARK!TOHOKU2024 Startup Pitch](https://www.sparktohoku.net/) - 仙台市長賞, 生活協同組合連合会コープ東北サンネット賞（学生部門）
@@ -25,7 +26,7 @@
 ### 2023
 - [Hack U Kosen 2023](https://hacku.yahoo.co.jp/kosen2023/) - Happy Hacking賞
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
-- [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 企業評価額1億円
+- [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 10位（企業評価額1億円）
 
 ## Articles
 ### 2025
