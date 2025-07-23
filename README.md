@@ -28,8 +28,10 @@
 - [仙台高等専門学校広瀬キャンパス高専祭2023](https://fest-snct.jp/2023/) - Official website administrator
 - [第4回全国高等専門学校 ディープラーニングコンテスト2023](https://dcon.ai/2023/) - 本選出場 10位（企業評価額1億円）
 
-## Articles
+## Media
 ### 2025
+- [歯ブラシにアタッチメントをつけるだけで、歯磨き、そして暮らしをより良い方向に！（第2回高専起業家サミット 最優秀チーム）](https://gekkan-kosen.com/22726/)
+- [プロジェクトAI　若者たちの挑戦 Dコン2025](https://www.nhk.jp/p/ts/W6M3GM53P7/episode/te/EM328L51LM/)
 - [第2回高専起業家サミットで最優秀賞受賞！](https://www.sendai-nct.ac.jp/20250310-3/)
 - [DCON2025　本選出場が決定しました](https://www.sendai-nct.ac.jp/20250310-2/)
 - [第2回高専起業家サミット・受賞チーム決定！](https://startup.gekkan-kosen.com/news/746/)
